@@ -58,6 +58,11 @@ body, html {
 	font-size: 30px;
 
 }
+.namelogo {
+	font-family: 'Cookie', cursive;
+	font-size: 30px;
+	line-height: 45px;
+}
 #logo {
 	width: 100px;
 	height: 40px;
@@ -88,6 +93,8 @@ h3 {
 	line-height: 10px;
 	color: white;
 	font-family: helvetica, sans-serif; 
+	margin-bottom: 0px;
+	margin-top: 0px;
 }
 #nbul {
 	margin: 0px;
