@@ -9,6 +9,19 @@ body {
 body, html {
     height: 100%;
 }
+#scroll {
+	width: 980px;
+	height: 65px;
+    position: absolute;
+    left: 505;
+    top: 270px;
+	font-size: 60px;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	opacity: 0.25;
+
+
+}
 #container {
 	padding: 0px;
 	margin: 0 auto;
