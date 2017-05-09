@@ -6,6 +6,10 @@ $(document).ready(function(){
 	})
 
 	$("#content").mouseenter(function(){
-	$("#title").css("color","red");	
+	$("#title").css("color","white");
+	$("#info").css("color","white");
+	$("#content").css("background-color","black");	
+	$("body").css("background-color","black");
+	$("#cover").css("background-color","black");
 	})
 })
